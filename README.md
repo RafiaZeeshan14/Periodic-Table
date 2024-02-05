@@ -1,6 +1,6 @@
 # Periodic Table Project
 
-# Live Demo 
+## Live Demo 
 https://periodictable-01.netlify.app/
 
 ## Description
