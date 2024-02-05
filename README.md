@@ -25,3 +25,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 Once the project is set up, users can interact with the periodic table to explore and learn about different chemical elements.
+
+## Preview
+![image](https://github.com/RafiaZeeshan14/Periodic-Table/assets/141746940/b096f4ca-93e7-4d30-a791-019ed89ec0f6)
+
